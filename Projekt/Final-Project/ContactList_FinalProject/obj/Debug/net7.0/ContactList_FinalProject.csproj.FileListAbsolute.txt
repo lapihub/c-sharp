@@ -1,0 +1,17 @@
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\bin\Debug\net7.0\ContactList_FinalProject.exe
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\bin\Debug\net7.0\ContactList_FinalProject.deps.json
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\bin\Debug\net7.0\ContactList_FinalProject.runtimeconfig.json
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\bin\Debug\net7.0\ContactList_FinalProject.dll
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\bin\Debug\net7.0\ContactList_FinalProject.pdb
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\obj\Debug\net7.0\ContactList_FinalProject.csproj.AssemblyReference.cache
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\obj\Debug\net7.0\ContactList_FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\obj\Debug\net7.0\ContactList_FinalProject.AssemblyInfoInputs.cache
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\obj\Debug\net7.0\ContactList_FinalProject.AssemblyInfo.cs
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\obj\Debug\net7.0\ContactList_FinalProject.csproj.CoreCompileInputs.cache
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\obj\Debug\net7.0\ContactList_FinalProject.csproj.CopyComplete
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\obj\Debug\net7.0\ContactList_FinalProject.dll
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\obj\Debug\net7.0\refint\ContactList_FinalProject.dll
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\obj\Debug\net7.0\ContactList_FinalProject.pdb
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\obj\Debug\net7.0\ContactList_FinalProject.genruntimeconfig.cache
+C:\Nackademin\c-sharp\Projekt\Final-Project\ContactList_FinalProject\obj\Debug\net7.0\ref\ContactList_FinalProject.dll
