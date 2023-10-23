@@ -1,6 +1,0 @@
-C:\Nackademin\c-sharp\Projekt\Test-2\Tests_ContactList\bin\Debug\net7.0\CoverletSourceRootsMapping
-C:\Nackademin\c-sharp\Projekt\Test-2\Tests_ContactList\obj\Debug\net7.0\Tests_ContactList.csproj.AssemblyReference.cache
-C:\Nackademin\c-sharp\Projekt\Test-2\Tests_ContactList\obj\Debug\net7.0\Tests_ContactList.GeneratedMSBuildEditorConfig.editorconfig
-C:\Nackademin\c-sharp\Projekt\Test-2\Tests_ContactList\obj\Debug\net7.0\Tests_ContactList.AssemblyInfoInputs.cache
-C:\Nackademin\c-sharp\Projekt\Test-2\Tests_ContactList\obj\Debug\net7.0\Tests_ContactList.AssemblyInfo.cs
-C:\Nackademin\c-sharp\Projekt\Test-2\Tests_ContactList\obj\Debug\net7.0\Tests_ContactList.csproj.CoreCompileInputs.cache
